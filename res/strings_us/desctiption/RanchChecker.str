@@ -1,0 +1,25 @@
+// C4D-StringResource
+
+STRINGTABLE
+{
+    IDS_RANCH_CHECKER                       "Ranch";
+    GET_RENDER_ENGINE           "";
+    GRP_SUB                     "";
+    GRP_SUB2                    "";
+    GRP_DYNAMIC                 "";
+    IDS_SETTINS                 "";
+    IDS_RENDERSUPPORT           "";
+    GRP_SUBGROUP                ""; 
+    IDS_ARCHIVE                 "";
+    GRP_LOGO                    ""; 
+    IDS_PLUGINSUPPORT           ""; 
+    IDS_ARNOLD_SUPPORT          "";
+    IDS_CORONA_SUPPORT          "";
+    IDS_VRAY_SUPPORT            "";
+    IDS_OCTANE_SUPPORT          "";
+    IDS_PRORENDER_SUPPORT       "";
+    IDS_HDRISTUDIORIG_SUPPORT   "";
+    IDS_XPARTICLCES_SUPPORT     "";
+    IDS_REALFLOW_SUPPORT        "";
+    
+}

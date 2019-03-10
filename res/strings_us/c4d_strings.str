@@ -1,0 +1,7 @@
+// C4D-StringResource
+
+STRINGTABLE
+{
+    IDS_RANCH_CHECKER                       "Ranch";
+    
+}
